@@ -1,1 +1,1 @@
-console.log(victor);
+consolelog("victor");
